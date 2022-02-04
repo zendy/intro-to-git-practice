@@ -6,10 +6,10 @@
     },
     location: {
         city: 'Melbourne',
-        postcode: '3000'
+        postcode: '3333'
     },
     job: {
         company: 'SEEK',
-        office: 'Melbourne'
+        office: 'Cremorne'
     }
 }
