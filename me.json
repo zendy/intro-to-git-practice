@@ -6,7 +6,6 @@
     },
     location: {
         city: 'Melbourne',
-        postcode: '3000'
     },
     job: {
         company: 'SEEK',
