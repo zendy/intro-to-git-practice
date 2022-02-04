@@ -1,0 +1,13 @@
+{
+    detail: {
+        name: 'Bruno',
+        age: '47',
+    },
+    location: {
+        city: 'Melbourne',
+    },
+    job: {
+        company: 'SEEK',
+        office: 'Melbourne'
+    }
+}
