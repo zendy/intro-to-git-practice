@@ -1,12 +1,12 @@
 {
     detail: {
         name: 'Bruno',
-        age: '47',
+        age: '37',
         gender: 'M',
     },
     location: {
         city: 'Melbourne',
-        postcode: '3333'
+        postcode: '3000'
     },
     job: {
         company: 'SEEK',
